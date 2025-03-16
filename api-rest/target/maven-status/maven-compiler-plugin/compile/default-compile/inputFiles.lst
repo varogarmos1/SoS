@@ -1,0 +1,11 @@
+/home/restuser/proyecto-biblioteca/api-rest/src/main/java/com/biblioteca/service/PrestamoService.java
+/home/restuser/proyecto-biblioteca/api-rest/src/main/java/com/biblioteca/repository/LibroRepository.java
+/home/restuser/proyecto-biblioteca/api-rest/src/main/java/com/biblioteca/model/Libro.java
+/home/restuser/proyecto-biblioteca/api-rest/src/main/java/com/biblioteca/repository/UsuarioRepository.java
+/home/restuser/proyecto-biblioteca/api-rest/src/main/java/com/biblioteca/model/Usuario.java
+/home/restuser/proyecto-biblioteca/api-rest/src/main/java/com/biblioteca/repository/PrestamoRepository.java
+/home/restuser/proyecto-biblioteca/api-rest/src/main/java/com/biblioteca/controller/UsuarioController.java
+/home/restuser/proyecto-biblioteca/api-rest/src/main/java/com/biblioteca/controller/LibroController.java
+/home/restuser/proyecto-biblioteca/api-rest/src/main/java/com/biblioteca/controller/PrestamoController.java
+/home/restuser/proyecto-biblioteca/api-rest/src/main/java/com/biblioteca/BibliotecaApplication.java
+/home/restuser/proyecto-biblioteca/api-rest/src/main/java/com/biblioteca/model/Prestamo.java

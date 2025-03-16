@@ -1,0 +1,12 @@
+com/biblioteca/service/PrestamoService.class
+com/biblioteca/repository/PrestamoRepository.class
+com/biblioteca/controller/PrestamoController.class
+com/biblioteca/repository/LibroRepository.class
+com/biblioteca/model/Libro.class
+com/biblioteca/repository/UsuarioRepository.class
+com/biblioteca/controller/LibroController.class
+com/biblioteca/BibliotecaApplication.class
+com/biblioteca/BibliotecaApplication$1.class
+com/biblioteca/model/Usuario.class
+com/biblioteca/model/Prestamo.class
+com/biblioteca/controller/UsuarioController.class
