@@ -1,3 +1,4 @@
+/home/restuser/proyecto-biblioteca/api-rest/src/main/java/com/biblioteca/model/PrestamoRequest.java
 /home/restuser/proyecto-biblioteca/api-rest/src/main/java/com/biblioteca/service/PrestamoService.java
 /home/restuser/proyecto-biblioteca/api-rest/src/main/java/com/biblioteca/repository/LibroRepository.java
 /home/restuser/proyecto-biblioteca/api-rest/src/main/java/com/biblioteca/model/Libro.java

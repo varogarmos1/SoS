@@ -1,13 +1,15 @@
 package com.biblioteca.model;
 
 import jakarta.persistence.*;
-import lombok.AllArgsConstructor;
-import lombok.Data;
+import lombok.Getter;
+import lombok.Setter;
 import lombok.NoArgsConstructor;
+import lombok.AllArgsConstructor;
 import java.time.LocalDate;
 
 @Entity
-@Data
+@Getter
+@Setter
 @NoArgsConstructor
 @AllArgsConstructor
 public class Usuario {
@@ -16,7 +18,9 @@ public class Usuario {
     private Long id;
     private String nombre;
     private String matricula;
-    private LocalDate fechaNacimiento;
     private String correo;
+    private LocalDate fechaNacimiento;  // 📌 Agrega esto si falta
     private LocalDate fechaSancion;
 }
+
+
