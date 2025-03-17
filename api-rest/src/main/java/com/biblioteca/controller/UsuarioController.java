@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 @RestController
-@RequestMapping("/usuarios")
+@RequestMapping("/api/usuarios") // Asegurar prefijo /api
 @RequiredArgsConstructor
 public class UsuarioController {
 
@@ -38,10 +38,10 @@ public class UsuarioController {
     }
 
     @DeleteMapping("/{id}")
-public ResponseEntity<?> eliminarUsuario(@PathVariable Long id) {
-    return usuarioRepository.findById(id).map(usuario -> {
-        usuarioRepository.delete(usuario);
-        return ResponseEntity.noContent().build();
-    }).orElse(ResponseEntity.notFound().build());
-}
+    public ResponseEntity<?> eliminarUsuario(@PathVariable Long id) {
+        return usuarioRepository.findById(id).map(usuario -> {
+            usuarioRepository.delete(usuario);
+            return ResponseEntity.noContent().build();
+        }).orElse(ResponseEntity.notFound().build());
+    }
 }

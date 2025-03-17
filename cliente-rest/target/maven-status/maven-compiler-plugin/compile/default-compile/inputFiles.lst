@@ -1,6 +1,6 @@
-/home/restuser/proyecto-biblioteca/cliente-rest/src/main/java/com/biblioteca/client/BibliotecaClient.java
-/home/restuser/proyecto-biblioteca/cliente-rest/src/main/java/com/biblioteca/client/Prestamo.java
-/home/restuser/proyecto-biblioteca/cliente-rest/src/main/java/com/biblioteca/client/Usuario.java
-/home/restuser/proyecto-biblioteca/cliente-rest/src/main/java/com/biblioteca/client/Main.java
-/home/restuser/proyecto-biblioteca/cliente-rest/src/main/java/com/biblioteca/client/PrestamoRequest.java
-/home/restuser/proyecto-biblioteca/cliente-rest/src/main/java/com/biblioteca/client/Libro.java
+/Users/rodriar/IdeaProjects/SoS/cliente-rest/src/main/java/com/biblioteca/client/BibliotecaClient.java
+/Users/rodriar/IdeaProjects/SoS/cliente-rest/src/main/java/com/biblioteca/client/PrestamoRequest.java
+/Users/rodriar/IdeaProjects/SoS/cliente-rest/src/main/java/com/biblioteca/client/Prestamo.java
+/Users/rodriar/IdeaProjects/SoS/cliente-rest/src/main/java/com/biblioteca/client/Usuario.java
+/Users/rodriar/IdeaProjects/SoS/cliente-rest/src/main/java/com/biblioteca/client/Libro.java
+/Users/rodriar/IdeaProjects/SoS/cliente-rest/src/main/java/com/biblioteca/client/Main.java

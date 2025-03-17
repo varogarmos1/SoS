@@ -1,9 +1,9 @@
 com/biblioteca/client/PrestamoRequest.class
 com/biblioteca/client/BibliotecaClient$3.class
 com/biblioteca/client/Prestamo.class
-com/biblioteca/client/BibliotecaClient$1.class
 com/biblioteca/client/BibliotecaClient.class
+com/biblioteca/client/BibliotecaClient$1.class
 com/biblioteca/client/Libro.class
 com/biblioteca/client/BibliotecaClient$2.class
-com/biblioteca/client/Main.class
 com/biblioteca/client/Usuario.class
+com/biblioteca/client/Main.class
